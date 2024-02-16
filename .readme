@@ -1,0 +1,1 @@
+I have scraped movies data in form of two tables from tmbd through api then i concatenated both tables on containing the movie data and other table containing genre ids post that I have done text preprocessing on the review column and then applied embeddings to my text.
